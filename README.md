@@ -22,8 +22,10 @@ This website serves as a showcase of my work, skills, and experiences. It is des
 
 ## Usage
 
-Explore My Portfolio on 
-https://ominous-guacamole-jx6vgq74p76f56rr-8080.app.github.dev/
+Explore My Portfolio on <br> 👇🏻👇🏻👇🏻👇🏻 <br>
+https://ominous-guacamole-jx6vgq74p76f56rr-8080.app.github.dev/ <br>
+OR <br>
+https://codersamir.me
 
 ## Donate
 
