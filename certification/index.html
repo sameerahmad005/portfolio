@@ -98,7 +98,7 @@
         });
 
         function fetchImages() {
-            fetch('portfolio/images')
+            fetch('/certification/images')
             .then(response => response.text())
             .then(data => {
                 const parser = new DOMParser();
